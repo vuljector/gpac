@@ -1,5 +1,5 @@
 [submodule "testsuite"]
 	path = testsuite
-	url = https://github.com/gpac/testsuite.git
+	url = https://github.com/vuljector/testsuite
 	branch = master
 	ignore = dirty
